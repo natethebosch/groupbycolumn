@@ -2,6 +2,7 @@
 # groupbycolumn
 
 Group by column is a comamnd line utility that takes csv's and prints out unique rows in the following format.
+
 ```
 Input:
 
@@ -21,4 +22,10 @@ Bob
 Cindy
 	2017-02-01
 	2017-02-03
+```
+
+## Usage
+
+```
+groupbycolumn file.csv
 ```
